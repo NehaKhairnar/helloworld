@@ -1,2 +1,1 @@
-(def hello (fn [] "Hello world"))
-(hello)
+(println "hello, world")
